@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EmptyObj
+  - OtherCharacter
+  - Goblet
+  - OriginPlate
+  - TargetPlate
+  - WineDrop
+  - Curtain
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ClimbCheck
+  - Player
+  - SceneDraggabble
+  - Scrap
+  - Bag
+  - Platform
+  - DontCollideWithPlayer
+  - OnlyCollideWithPlayer
+  - FlyCheckLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Up
+    uniqueID: 778212449
+    locked: 0
+  - name: Middle
+    uniqueID: 3028716015
+    locked: 0
+  - name: Down
+    uniqueID: 3913500431
+    locked: 0
+  - name: Scrap
+    uniqueID: 797319923
+    locked: 0
+  - name: Player
+    uniqueID: 2785564723
+    locked: 0
+  - name: FrontLayer
+    uniqueID: 3113417347
+    locked: 0

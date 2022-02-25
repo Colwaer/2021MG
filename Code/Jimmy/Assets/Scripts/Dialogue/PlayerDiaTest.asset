@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 300c17c0d16f0544ba708abf85f0031c, type: 3}
+  m_Name: PlayerDiaTest
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: 0
+    text: "\u5982\u679C\u53EF\u4EE5\u5BFB\u627E\u5230\u4E00\u6761\u8FDB\n\u5165\u57CE\u5821\u7684\u8DEF\uFF0C\u4E00\u5207\u8FD8\u6709\n\u8F6C\u673A\u3002"
+  - ID: 1
+    text: "\u201C\u60F3\u529E\u6CD5\u6084\u6084\u8FDB\u82B1\u56ED\uFF0C\u5C0F\n\u4F19\u4F34\u4EEC\u8FD8\u5728\u7B49\u6211\u3002\u201D"
+  - ID: 2
+    text: "\u201C\u5982\u679C\u53EF\u4EE5\u9F50\u5FC3\u534F\u529B\u6495\u5F00\n\u9AD8\u5899\uFF0C\u4E5F\u8BB8\u5DE8\u4EBA\u5C31\u4F1A\u660E\u767D\n\u2026\u2026\u201D"

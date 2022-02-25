@@ -1,0 +1,1452 @@
+fileFormatVersion: 2
+guid: c27eff5c38ff5d34abcb14d3afc61162
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 196010795870135631
+    second: "jimmy\u62FF\u94A5\u5319_0"
+  - first:
+      213: -1358721328849121963
+    second: "jimmy\u62FF\u94A5\u5319_1"
+  - first:
+      213: -6599228704297790902
+    second: "jimmy\u62FF\u94A5\u5319_2"
+  - first:
+      213: 2299935507801636401
+    second: "jimmy\u62FF\u94A5\u5319_3"
+  - first:
+      213: 373879789548023711
+    second: "jimmy\u62FF\u94A5\u5319_4"
+  - first:
+      213: -1871426273288836650
+    second: "jimmy\u62FF\u94A5\u5319_5"
+  - first:
+      213: -3821037211460598831
+    second: "jimmy\u62FF\u94A5\u5319_6"
+  - first:
+      213: 7311943041662586740
+    second: "jimmy\u62FF\u94A5\u5319_7"
+  - first:
+      213: -364521171637260067
+    second: "jimmy\u62FF\u94A5\u5319_8"
+  - first:
+      213: -4277925345130414961
+    second: "jimmy\u62FF\u94A5\u5319_9"
+  - first:
+      213: -7637187948011219696
+    second: "jimmy\u62FF\u94A5\u5319_10"
+  - first:
+      213: 128435565513130800
+    second: "jimmy\u62FF\u94A5\u5319_11"
+  - first:
+      213: -5497782746447453235
+    second: "jimmy\u62FF\u94A5\u5319_12"
+  - first:
+      213: 2655540347127260981
+    second: "jimmy\u62FF\u94A5\u5319_13"
+  - first:
+      213: -5330220288933364156
+    second: "jimmy\u62FF\u94A5\u5319_14"
+  - first:
+      213: 1258338896425667817
+    second: "jimmy\u62FF\u94A5\u5319_15"
+  - first:
+      213: -2858446332089833176
+    second: "jimmy\u62FF\u94A5\u5319_16"
+  - first:
+      213: -8254380654069143513
+    second: "jimmy\u62FF\u94A5\u5319_17"
+  - first:
+      213: 8563256636953035220
+    second: "jimmy\u62FF\u94A5\u5319_18"
+  - first:
+      213: -65051195915411632
+    second: "jimmy\u62FF\u94A5\u5319_19"
+  - first:
+      213: -626650803251042841
+    second: "jimmy\u62FF\u94A5\u5319_20"
+  - first:
+      213: -7628681671930312547
+    second: "jimmy\u62FF\u94A5\u5319_21"
+  - first:
+      213: 3569472003418825022
+    second: "jimmy\u62FF\u94A5\u5319_22"
+  - first:
+      213: 2765732026654906939
+    second: "jimmy\u62FF\u94A5\u5319_23"
+  - first:
+      213: 5148617126768553584
+    second: "jimmy\u62FF\u94A5\u5319_24"
+  - first:
+      213: 571955301968060939
+    second: "jimmy\u62FF\u94A5\u5319_25"
+  - first:
+      213: 3060571661978085649
+    second: "jimmy\u62FF\u94A5\u5319_26"
+  - first:
+      213: 4555558832832559269
+    second: "jimmy\u62FF\u94A5\u5319_27"
+  - first:
+      213: 6823207882099380268
+    second: "jimmy\u62FF\u94A5\u5319_28"
+  - first:
+      213: 7629873369692232443
+    second: "jimmy\u62FF\u94A5\u5319_29"
+  - first:
+      213: -5959251332898201262
+    second: "jimmy\u62FF\u94A5\u5319_30"
+  - first:
+      213: 5142982993601915064
+    second: "jimmy\u62FF\u94A5\u5319_31"
+  - first:
+      213: -9035170545991429659
+    second: "jimmy\u62FF\u94A5\u5319_32"
+  - first:
+      213: -7279831913449859886
+    second: "jimmy\u62FF\u94A5\u5319_33"
+  - first:
+      213: -1711953023474227960
+    second: "jimmy\u62FF\u94A5\u5319_34"
+  - first:
+      213: 1653288001656628166
+    second: "jimmy\u62FF\u94A5\u5319_35"
+  - first:
+      213: -9025340805050511099
+    second: "jimmy\u62FF\u94A5\u5319_36"
+  - first:
+      213: -5696801851875714539
+    second: "jimmy\u62FF\u94A5\u5319_37"
+  - first:
+      213: 6698949552774405204
+    second: "jimmy\u62FF\u94A5\u5319_38"
+  - first:
+      213: -4478734841379186845
+    second: "jimmy\u62FF\u94A5\u5319_39"
+  - first:
+      213: 4732557242590176392
+    second: "jimmy\u62FF\u94A5\u5319_40"
+  - first:
+      213: -5598868791199634896
+    second: "jimmy\u62FF\u94A5\u5319_41"
+  - first:
+      213: 5620366471449605707
+    second: "jimmy\u62FF\u94A5\u5319_42"
+  - first:
+      213: 1192518651328373650
+    second: "jimmy\u62FF\u94A5\u5319_43"
+  - first:
+      213: 2096742888159268389
+    second: "jimmy\u62FF\u94A5\u5319_44"
+  - first:
+      213: 275374065917861819
+    second: "jimmy\u62FF\u94A5\u5319_45"
+  - first:
+      213: -5289728507896552301
+    second: "jimmy\u62FF\u94A5\u5319_46"
+  - first:
+      213: 6140724281732249027
+    second: "jimmy\u62FF\u94A5\u5319_47"
+  - first:
+      213: -7353756402004956416
+    second: "jimmy\u62FF\u94A5\u5319_48"
+  - first:
+      213: -8815021020594493611
+    second: "jimmy\u62FF\u94A5\u5319_49"
+  - first:
+      213: 4678393934628580231
+    second: "jimmy\u62FF\u94A5\u5319_50"
+  - first:
+      213: 3053175647552348540
+    second: "jimmy\u62FF\u94A5\u5319_51"
+  - first:
+      213: 3937771543466492497
+    second: "jimmy\u62FF\u94A5\u5319_52"
+  - first:
+      213: 4503771438042296282
+    second: "jimmy\u62FF\u94A5\u5319_53"
+  - first:
+      213: -5060242272765670866
+    second: "jimmy\u62FF\u94A5\u5319_54"
+  - first:
+      213: 1397332609311042704
+    second: "jimmy\u62FF\u94A5\u5319_55"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8100
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f452bf3c7ce58b200800000000000000
+      internalID: 196010795870135631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_1"
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 8100
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d8335762ad42de0800000000000000
+      internalID: -1358721328849121963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_2"
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 8100
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42d4c82574da64a0800000000000000
+      internalID: -6599228704297790902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_3"
+      rect:
+        serializedVersion: 2
+        x: 3936
+        y: 8100
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ef2d4a8230bef10800000000000000
+      internalID: 2299935507801636401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_4"
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 8100
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f25bc00b9403500800000000000000
+      internalID: 373879789548023711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_5"
+      rect:
+        serializedVersion: 2
+        x: 6560
+        y: 8100
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9294d38bb5706e0800000000000000
+      internalID: -1871426273288836650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_6"
+      rect:
+        serializedVersion: 2
+        x: 7872
+        y: 8100
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d38751a6e2f8fac0800000000000000
+      internalID: -3821037211460598831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_7"
+      rect:
+        serializedVersion: 2
+        x: 9184
+        y: 8100
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f0030c47d397560800000000000000
+      internalID: 7311943041662586740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6750
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0b37bfce5f0faf0800000000000000
+      internalID: -364521171637260067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_9"
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 6750
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c7cd36091c1a4c0800000000000000
+      internalID: -4277925345130414961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_10"
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 6750
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01595eb5602430690800000000000000
+      internalID: -7637187948011219696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_11"
+      rect:
+        serializedVersion: 2
+        x: 3936
+        y: 6750
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033cfe2677b48c100800000000000000
+      internalID: 128435565513130800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_12"
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 6750
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc36ab978b3f3b3b0800000000000000
+      internalID: -5497782746447453235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_13"
+      rect:
+        serializedVersion: 2
+        x: 6560
+        y: 6750
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537ec3540ef5ad420800000000000000
+      internalID: 2655540347127260981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_14"
+      rect:
+        serializedVersion: 2
+        x: 7872
+        y: 6750
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44efb8f43e04706b0800000000000000
+      internalID: -5330220288933364156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_15"
+      rect:
+        serializedVersion: 2
+        x: 9184
+        y: 6750
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec42803f84867110800000000000000
+      internalID: 1258338896425667817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_16"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8296446a432c458d0800000000000000
+      internalID: -2858446332089833176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_17"
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 5400
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7282a59578c827d80800000000000000
+      internalID: -8254380654069143513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_18"
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 5400
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1871e8a8cc6d670800000000000000
+      internalID: 8563256636953035220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_19"
+      rect:
+        serializedVersion: 2
+        x: 3936
+        y: 5400
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f5f3f2844e81ff0800000000000000
+      internalID: -65051195915411632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_20"
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 5400
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e522022a60bd47f0800000000000000
+      internalID: -626650803251042841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_21"
+      rect:
+        serializedVersion: 2
+        x: 6560
+        y: 5400
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d988f08107a712690800000000000000
+      internalID: -7628681671930312547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_22"
+      rect:
+        serializedVersion: 2
+        x: 7872
+        y: 5400
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e312b7f00ef498130800000000000000
+      internalID: 3569472003418825022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_23"
+      rect:
+        serializedVersion: 2
+        x: 9184
+        y: 5400
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3adfa0ff9ad16620800000000000000
+      internalID: 2765732026654906939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4050
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e288d8fff837740800000000000000
+      internalID: 5148617126768553584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_25"
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 4050
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b022539115effe700800000000000000
+      internalID: 571955301968060939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_26"
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 4050
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119a4d106b5597a20800000000000000
+      internalID: 3060571661978085649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_27"
+      rect:
+        serializedVersion: 2
+        x: 3936
+        y: 4050
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8b0604f98983f30800000000000000
+      internalID: 4555558832832559269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_28"
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 4050
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20dd29fa67e0be50800000000000000
+      internalID: 6823207882099380268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_29"
+      rect:
+        serializedVersion: 2
+        x: 6560
+        y: 4050
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfad7b9a761c2e960800000000000000
+      internalID: 7629873369692232443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_30"
+      rect:
+        serializedVersion: 2
+        x: 7872
+        y: 4050
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25164577c7c7c4da0800000000000000
+      internalID: -5959251332898201262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_31"
+      rect:
+        serializedVersion: 2
+        x: 9184
+        y: 4050
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b86483b8cb8f5740800000000000000
+      internalID: 5142982993601915064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_32"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1db114240ac9280800000000000000
+      internalID: -9035170545991429659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_33"
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2700
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4d446e177d8fa90800000000000000
+      internalID: -7279831913449859886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_34"
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 2700
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805a9a3abcbed38e0800000000000000
+      internalID: -1711953023474227960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_35"
+      rect:
+        serializedVersion: 2
+        x: 3936
+        y: 2700
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3a8229da8a1f610800000000000000
+      internalID: 1653288001656628166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_36"
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 2700
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501502a2b5c8fb280800000000000000
+      internalID: -9025340805050511099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_37"
+      rect:
+        serializedVersion: 2
+        x: 6560
+        y: 2700
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a192f06e4e0f0b0800000000000000
+      internalID: -5696801851875714539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_38"
+      rect:
+        serializedVersion: 2
+        x: 7872
+        y: 2700
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c516d202377fc50800000000000000
+      internalID: 6698949552774405204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_39"
+      rect:
+        serializedVersion: 2
+        x: 9184
+        y: 2700
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3679d60246658d1c0800000000000000
+      internalID: -4478734841379186845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_40"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1350
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8842acbecbb6da140800000000000000
+      internalID: 4732557242590176392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_41"
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1350
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a668c9f72dc42b0800000000000000
+      internalID: -5598868791199634896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_42"
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 1350
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46f44e178d8ffd40800000000000000
+      internalID: 5620366471449605707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_43"
+      rect:
+        serializedVersion: 2
+        x: 3936
+        y: 1350
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293a478256dac8010800000000000000
+      internalID: 1192518651328373650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_44"
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 1350
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e4f0a3c80291d10800000000000000
+      internalID: 2096742888159268389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_45"
+      rect:
+        serializedVersion: 2
+        x: 6560
+        y: 1350
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf9363014352d300800000000000000
+      internalID: 275374065917861819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_46"
+      rect:
+        serializedVersion: 2
+        x: 7872
+        y: 1350
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394a190c2fb1796b0800000000000000
+      internalID: -5289728507896552301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_47"
+      rect:
+        serializedVersion: 2
+        x: 9184
+        y: 1350
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c53444033c383550800000000000000
+      internalID: 6140724281732249027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_48"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b6db5a38532f990800000000000000
+      internalID: -7353756402004956416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_49"
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 0
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5572dd3f511caa580800000000000000
+      internalID: -8815021020594493611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_50"
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 0
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78be0e01f7efce040800000000000000
+      internalID: 4678393934628580231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_51"
+      rect:
+        serializedVersion: 2
+        x: 3936
+        y: 0
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c712b35331f0f5a20800000000000000
+      internalID: 3053175647552348540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_52"
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 0
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15246f60b56c5a630800000000000000
+      internalID: 3937771543466492497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_53"
+      rect:
+        serializedVersion: 2
+        x: 6560
+        y: 0
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfaf0ac24c908e30800000000000000
+      internalID: 4503771438042296282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_54"
+      rect:
+        serializedVersion: 2
+        x: 7872
+        y: 0
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a0366967866c9b0800000000000000
+      internalID: -5060242272765670866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "jimmy\u62FF\u94A5\u5319_55"
+      rect:
+        serializedVersion: 2
+        x: 9184
+        y: 0
+        width: 1312.5
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ced03da92546310800000000000000
+      internalID: 1397332609311042704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 300c17c0d16f0544ba708abf85f0031c, type: 3}
+  m_Name: 1-4Giant
+  m_EditorClassIdentifier: 
+  dialoguePieces:
+  - ID: 1-4-1
+    text: "\u4F60\u4EEC\u5BF9\u8FD9\u91CC\u505A\u4E86\u4EC0\u4E48\uFF1F"
+  - ID: 1-4-2
+    text: "\u5B69\u5B50\u4EEC\uFF0C\u82B1\u56ED\u73B0\u5728\u662F\u4F60\n\u4EEC\u7684\u4E86\u3002"
+  - ID: 1-4-3
+    text: "\u8C22\u8C22\u4F60\u4EEC\uFF0C\u5E26\u6765\u4E86\u6625\u5929\u3002"
